@@ -1,7 +1,6 @@
-Technocoin Cryptocurrency
-================================
 
-http://www.technocoin.org
+
+
 
 Copyright (c) 2009-2014 Bitcoin Developers<br>
 Copyright (c) 2011-2014 RecCoin Developers<br>
